@@ -56,7 +56,7 @@ def all_holidays_with_bbq(holiday_hash)
           barbeque << holiday
           
         end
-        barbeque
+        return barbeque
       end
   end
 
